@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/shaha/Work/End-to-end-Machine-Learning-Project-with-MLflow/mlruns/0/8a6722ad4ab14d549f72389e1f1fde59/artifacts
+end_time: 1737222333814
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8a6722ad4ab14d549f72389e1f1fde59
+run_name: traveling-asp-31
+run_uuid: 8a6722ad4ab14d549f72389e1f1fde59
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737222329004
+status: 4
+tags: []
+user_id: shaha
