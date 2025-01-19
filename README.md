@@ -49,20 +49,7 @@ open up you local host and port
 
 
 
-## MLflow
 
-[Documentation](https://mlflow.org/docs/latest/index.html)
-
-
-
-
-export MLFLOW_TRACKING_URI=https://dagshub.com/entbappy/End-to-end-Machine-Learning-Project-with-MLflow.mlflow
-
-export MLFLOW_TRACKING_USERNAME=entbappy 
-
-export MLFLOW_TRACKING_PASSWORD=6824692c47a369aa6f9eac5b10041d5c8edbcef0
-
-```
 
 
 
@@ -99,7 +86,7 @@ export MLFLOW_TRACKING_PASSWORD=6824692c47a369aa6f9eac5b10041d5c8edbcef0
 
 	
 ## 3. Create ECR repo to store/save docker image
-    - Save the URI: 438465151412.dkr.ecr.ap-northeast-1.amazonaws.com/mlproj
+
 
 	
 ## 4. Create EC2 machine (Ubuntu) 
@@ -124,7 +111,7 @@ export MLFLOW_TRACKING_PASSWORD=6824692c47a369aa6f9eac5b10041d5c8edbcef0
 	newgrp docker
 	
 # 6. Configure EC2 as self-hosted runner:
-    setting>actions>runner>new self hosted runner> choose os> then run command one by one
+
 
 
 # 7. Setup github secrets:
